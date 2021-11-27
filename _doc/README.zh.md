@@ -1,6 +1,4 @@
-# Hux blog 模板
-
-### [我的博客在这里 &rarr;](http://huxpro.github.io)
+# 模板
 
 
 ### 关于收到"Page Build Warning"的email
@@ -40,11 +38,6 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 ###### 其他历史版本个人觉得没有必要了解，看看英文就行了。
 
 
-
-## 支持
-
-* 你可以自由的fork。如果你能将主题作者和 github 的地址保留在你的页面底部，我将非常感谢你。
-* 如果你喜欢我的这个博客模板，请在`huxpro.github.io`这个repository点个赞——右上角**star**一下。
 
 ## 说明文档
 
